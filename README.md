@@ -1,6 +1,6 @@
 # Olá pessoal! 😀 
 
-### Me chamo Marcos Henrique Silveira Dias
+### Me chamo Marcos Henrique
 
 Sou um desenvolvedor de 17 anos, gosto muito do mundo de programação e tento sempre compartilhar esses conhecimentos com as pessoas :) , meu foco atual está nas áreas mobile e back-end mas não deixo de estudar sobre a área web que gosto muito também! 
 
