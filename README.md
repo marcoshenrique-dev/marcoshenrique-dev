@@ -34,8 +34,3 @@ Sou um desenvolvedor de 17 anos, gosto muito do mundo de programação e tento s
 </p>
 
 
-## Minhas contribuições :
-
-![Marcos Henrique Dev Github stats](https://github-readme-stats.vercel.app/api?username=marcoshenrique-dev&show_icons=true&theme=dracula)
-
-
