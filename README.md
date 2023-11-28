@@ -1,15 +1,16 @@
 # Olá pessoal! 😀 
 
-### Me chamo Marcos Henrique
+Olá, me chamo Marcos Henrique, tenho 17 anos, sou desenvolvedor full stack e estudo programação desde os 12 anos, tenho 2 anos de experiência como jovem aprendiz na empresa 3tecnos e desde 2022 desenvolvo sistemas e me atualizo na área!
 
-Sou um desenvolvedor de 17 anos, gosto muito do mundo de programação e tento sempre compartilhar esses conhecimentos com as pessoas :) , meu foco atual está nas áreas mobile e back-end mas não deixo de estudar sobre a área web que gosto muito também! 
+Durante meu estágio na empresa 3tecnos aprendi bastante sobre arquitetura de software e desenvolvimento em conjunto com uma equipe, me aprofundando em desenvolvimento de apis com node a reactjs na parte web.
 
-### Meus objetivos: 
-* Melhorar ainda mais na área que tanto amo
-* Aprender sobre design e investimentos 💰 
-* Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começar👨‍🎓
-* Contribuir com a comunidade 😁.  
-* E essa lista vem crescendo a cada dia mais! ⏭
+Atualmente me mantenho atualizado nas principais tecnologias do mercado e explorando a área cada vez mais a fundo com o objetivo de aprender e futuramente também empreender nas mais diversas áreas (com foco também na parte administrativa).
+
+Estudo programação de forma independente desde os 12 anos através de cursos online e bastante estudo de documentações e principalmente, na prática!
+
+Compartilho toda minha evolução no linkedin, youtube e instagram para que outras pessoas possam se interessar cada vez mais pela área de tecnologia.
+
+Especialidades: Desenvolvimento de aplicações completas de ponta a ponta usando as tecnologias reactjs, nodejs, typescript e python (para algumas funções), realizando deploy em servidores (a exemplo da digital ocean) além de um aprofundamento em nextjs e nestjs seguindo princípios de arquitetura de software.
  
  **Tecnologias que estou estudando:**
 <p align="left">
