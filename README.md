@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos Henrique! 👨‍💻
+# Olá, me chamo Marcos Henrique! 👨‍💻
 
 Tenho 18 anos e sou **desenvolvedor full stack** apaixonado por **tecnologia**, **inovação** e **resolução de problemas**. Minha jornada no mundo da programação começou aos **12 anos**, e desde então venho buscando aprender e crescer cada vez mais. Ao longo dos anos, desenvolvi habilidades em **desenvolvimento de software**, **arquitetura de sistemas**, **deploy em servidores** e **gestão de projetos**.
 
