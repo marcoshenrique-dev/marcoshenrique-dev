@@ -4,8 +4,6 @@ Tenho 18 anos e sou **desenvolvedor full stack** apaixonado por **tecnologia**, 
 
 Com experiência prática em desenvolvimento de **aplicações web e mobile**, tenho focado principalmente em tecnologias como **React.js**, **Node.js**, **Next.js**, **NestJS**, **Typescript**, além de explorar infraestrutura de nuvem (AWS, Docker). Acredito que o **aprendizado contínuo** é a chave para o sucesso, e é por isso que estou sempre me desafiando a experimentar novas tecnologias e ferramentas para melhorar minha performance e criar soluções ainda mais eficientes.
 
-Sou também um **empreendedor em potencial**. Através de minha experiência prática e conhecimento técnico, busco não apenas ser um bom desenvolvedor, mas também entender de forma holística a construção e gestão de produtos, sempre com foco em **entregar valor ao usuário final**.
-
 ---
 
 ## 🚀 Minhas Especialidades:
